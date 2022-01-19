@@ -19,7 +19,7 @@
 >"It is our attitude at the beginning of something difficult, more than anything else, that will affect a successful outcome." - William James
 ### :v: Who I am?
 An electronic engineering student with a penchant for robotics and programming.  
-Captivated by the application of convolutional neural networks in self-driving cars like an artist on the details of a surreal painting.  
+I have an interest in reading CNN research in the field of Self-driving cars. But currently I am developing Front-end developer skills  
 
 ### 🏃 Hobbies  
 + I enjoy circumstantial disconnections for social coexistence. 🚶
